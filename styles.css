@@ -1,0 +1,88 @@
+h1{
+    color: rgb(255, 153, 0);
+    background-color: green;
+   }
+   
+ * applying h2 styles */
+h2{
+    color: #DB8C04;
+    background-color: green; 
+}
+
+.my-custom-style{
+    color: rgb(231, 8, 8);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    background-color: yellow;
+}
+
+ #my-unique-id{
+     color: rgb(90, 10, 238);
+     font-size: 2em;
+     background-color: ivory;
+     font-family: sans-serif;
+ }
+ #my-info{
+     color: blue;
+ }
+
+ #sunflower{
+     width: 50%;
+     /* height: 200px; */
+     border: 5px solid;
+     border-color: red;
+     margin: 100px;
+     padding: 20px;
+ }
+
+ a{
+     font-size: 25px;
+     font-style: italic;
+     font-weight: bold;
+ }
+
+ #google_link{
+     border: 3px solid;
+     border-color: red;
+     padding: 5px;
+     width: 30%;
+     margin-left: 100px;
+     
+ }
+
+ table,th,td{
+    font-size: 50px;
+    border-style: solid;
+    border-color: red;
+    border-spacing: 10px;
+}
+​
+/* LAST STYLE WILL OVERRIRE */
+td{
+    border-color: purple;
+    color: green;
+}
+
+#frame{
+    width: 50%;
+    height: 500px;
+
+}
+
+label{
+    font-size: 50px;
+}
+
+.list-section{
+    font-size: 150%;
+    background-color: chartreuse;        
+}
+
+#form-div{
+    background-image: url('https://files.worldwildlife.org/wwfcmsprod/images/Mountains_New_Hero_Image/story_full_width/5c6n24n4pm_mountains_hero.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: yellow;
+}
+
